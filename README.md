@@ -15,7 +15,7 @@ My project goal was to operationalize this working, machine learning microservic
 * Improve the log statements in the source code for this application
 * Configure Kubernetes and create a Kubernetes cluster
 * Deploy a container using Kubernetes and make a prediction
-* Uploaded the complete Github repo with CircleCI config file to indicate that your code has been tested
+* Uploaded the complete Github repo with CircleCI config file to indicate that my code has been tested
 
 ---
 
